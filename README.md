@@ -13,7 +13,7 @@ Ele foi projetado para não alucinar sobre assuntos fora do seu escopo e está p
    ```bash
    git clone <url-do-repositorio>
    cd <nome-da-pasta>
-   ``
+   ```
 
 2. **Instale as dependências:**
 
